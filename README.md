@@ -20,3 +20,4 @@ Proyecto listo para correr con Vite + React + Tailwind + Recharts.
 4. Abre la URL que te dé Vite (por defecto suele ser `http://localhost:5173`).
 
 Ya deberías ver el dashboard de **DECODEAI Performance System** funcionando.
+
